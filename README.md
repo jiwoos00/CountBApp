@@ -13,10 +13,9 @@
 
 ### 2) Getting started
 1. Open terminal
-2. Clone the repo by running `git clone https://github.com/klaytn/countbapp.git`
-3. `nvm install 14.5.4`
-node-sass 4.9.0 <> node version down
-4. `nvm use 14.5.4`
-5. Run `npm install`to install node packages
+2. Clone the repo by running `git clone https://github.com/jiwoos00/CountBApp.git`
+3. `cd CountBApp`
+4. `nvm install 14.5.4` (node-sass 4.9.0 <> node version down) `nvm use 14.5.4`
+5. Run `npm install` or `npm i` to install node packages
 6. Run `npm run local`
-5. App should be running https://localhost:8888, https://127.0.0.1:8888, https://0.0.0.0:8888
+App should be running https://localhost:8888, https://127.0.0.1:8888, https://0.0.0.0:8888
