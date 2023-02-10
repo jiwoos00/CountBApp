@@ -1,0 +1,14 @@
+* {
+  font-family: -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Montserrat","Pretendard","Merriweather",sans-serif;
+  font-size:10px;
+}
+
+body {
+  background-color: #F7F7F7;
+
+  *, *::before, *::after {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
