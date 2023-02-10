@@ -3,8 +3,6 @@
 ## Table of contents
 - [1) Introduction](#1-introduction)
 - [2) Getting started](#2-getting-started)
-- [3) npm package information](#3-npm-package-information)
-- [4) Directory Structure](#4-directory-structure)
 
 
 ### 1) Introduction
